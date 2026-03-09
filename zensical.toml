@@ -11,7 +11,7 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "DisplayDuck Documentation"
+site_name = "DisplayDuck"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
@@ -71,7 +71,7 @@ Copyright &copy; 2026 The authors
 # Section for configuring theme options
 # ----------------------------------------------------------------------------
 [project.theme]
-
+logo = "assets/logo.png"
 # change this to "classic" to use the traditional Material for MkDocs look.
 #variant = "classic"
 
@@ -293,8 +293,6 @@ scheme = "slate"
 # - https://zensical.org/docs/setup/logo-and-icons
 # - https://zensical.org/docs/authoring/icons-emojis/#search
 # ----------------------------------------------------------------------------
-#[project.theme.icon]
-#logo = "lucide/smile"
 #repo = "lucide/smile"
 
 # ----------------------------------------------------------------------------
