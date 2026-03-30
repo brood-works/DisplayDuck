@@ -39,17 +39,10 @@ This repository does **not** contain the source code of DisplayDuck.
 Instead, it is primarily used for:
 - Maintaining the official documentation  
 - Allowing community contributions to improve guides and documentation  
-- Tracking issues, bug reports, and feature requests  
+- Tracking issues, bug reports, and feature requests
+- Single point of truth for releases
 
 Documentation contributions are welcome and help make the platform easier to understand and use.
-
-> [!WARNING]
-> At the time of writing, DisplayDuck is not open source for a few reasons (among possibly others):
-> - I haven’t yet taken the time to properly research and choose the right open source license.
-> - The backend still needs a fair amount of cleanup and refactoring before it would be comfortable for other developers to read and work with. I’d rather not rush that or vibe-code my way through it.
-> - I also haven’t fully figured out a monetization approach yet that would make sense alongside an open source model.
->
-> Open sourcing the project is something I may consider in the future once these things are better thought through.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
