@@ -11,7 +11,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/brood-works/displayduck">
+  <a href="https://github.com/pondhub-io/displayduck">
     <img src="docs/assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -29,6 +29,20 @@ DisplayDuck is software that turns any display into a customizable dashboard for
 The platform is built around a widget-based system where dashboards are composed of modular components. These widgets can display metrics, status information, monitoring data, notifications, or other live updates. By combining different widgets, users can create dashboards tailored for environments such as home dashboards, operations centers, development teams, offices, smart homes, or public displays.
 
 DisplayDuck is designed with an extensible architecture that allows widgets to be added from public GitHub repositories. This enables developers and the community to create and share their own widgets.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Platform Matrix
+
+| Platform | x86/x64 | ARM/ARM64 |
+| --- | --- | --- | 
+| Windows | ✓ | ? |
+| macOS | ? | ✓ |
+| Linux | ? | ? |
+
+✓ - Tested and confirmed working
+× - Confirmed broken, most-likely doesn't work
+? - Needs testing
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -50,17 +64,17 @@ Documentation contributions are welcome and help make the platform easier to und
 
 ### Contributors:
 
-<a href="https://github.com/brood-works/displayduck/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=brood-works/displayduck" />
+<a href="https://github.com/pondhub-io/displayduck/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pondhub-io/displayduck" />
 </a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/brood-works/displayduck.svg
-[contributors-url]: https://github.com/brood-works/displayduck/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/brood-works/displayduck
+[contributors-shield]: https://img.shields.io/github/contributors/pondhub-io/displayduck.svg
+[contributors-url]: https://github.com/pondhub-io/displayduck/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/pondhub-io/displayduck
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/brood-works/displayduck
+[issues-shield]: https://img.shields.io/github/issues/pondhub-io/displayduck
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues

@@ -6,11 +6,11 @@ icon: lucide/package-plus
 
 This guide uses the example pack in `packs-local/displayduck-pack-example` as the starting point.
 
-DisplayDuck now uses the term **pack** for what older code and conversations may still call a **plugin**. In practice, this guide is about building a standalone DisplayDuck widget pack.
+In practice, this guide is about building a standalone DisplayDuck widget pack.
 
 ## Start from the example
 
-The fastest way to get moving is to copy [the example pack](https://github.com/brood-works/displayduck-pack-example) and rename it:
+The fastest way to get moving is to copy [the example pack](https://github.com/pondhub-io/displayduck-pack-example) and rename it:
 
 ```text
 your-pack/

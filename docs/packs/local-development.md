@@ -55,9 +55,10 @@ Use the Widgets tab in DisplayDuck and add the parent folder that contains your 
 
 That allows DisplayDuck to discover packs inside that directory.
 
-## 5. Turn on developer mode for live refresh
+## 5. Turn on developer mode for live refresh and logs
 
 DisplayDuck only watches local pack output for live refresh when developer mode is enabled.
+When developer mode is enabled, right click on the tray icon to toggle the logs window.
 
 So for the smoothest loop:
 

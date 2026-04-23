@@ -24,7 +24,7 @@ If you are creating a new widget pack, start here:
 
 ## Terminology
 
-DisplayDuck now uses the term **pack**. Older examples or code comments may still say **plugin**, but these docs use **pack** throughout.
+DisplayDuck uses the term **pack**.
 
 ## Suggested reading order
 
